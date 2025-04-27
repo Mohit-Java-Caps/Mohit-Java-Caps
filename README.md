@@ -46,7 +46,7 @@ I'm a passionate **Java Full Stack Developer** currently working at **Cognizant*
 - 📫 Email: mohit02012001@gmail.com  / mohitlogin72@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohit-kumar-a11340214)  
 - 🧠 [LeetCode](https://leetcode.com/u/Mohit_72/)  
-- 🌐 [Portfolio (Coming Soon)](https://mohit-java-caps.github.io/mohit-portfolio/)
+- 🌐 [Portfolio](https://mohit-java-caps.github.io/mohit-portfolio/)
  
 ---
  
