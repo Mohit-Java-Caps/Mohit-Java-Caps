@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mohit Kumar 👋</h1>
 <p align="center">
-  🚀 Java Full Stack Developer | 4⭐ LeetCode (800+ Problems) | ☁️ AWS Certified | ⚡ Big Data Enthusiast
+  🚀 Java Full Stack Developer | 4⭐ LeetCode (800+ Problems) | ☁️ AWS Certified |GitHub Copilot certified | ⚡ Big Data Enthusiast
 </p>
  
 ---
@@ -27,7 +27,7 @@ I'm a passionate **Java Full Stack Developer** currently working at **Cognizant*
 ---
  
 ### 🚀 Projects Coming Soon
- 
+- ✅ [Github-Profile-Analyzer](https://github.com/Mohit-Java-Caps/job-tracker-app)
 - ✅ [job-tracker-app](https://github.com/Mohit-Java-Caps/job-tracker-app)
 - ✅ [ecommerce-microservices](https://github.com/Mohit-Java-Caps/ecommerce-microservices)
 - ✅ [system-design-notes](https://github.com/Mohit-Java-Caps/system-design-notes)
@@ -43,10 +43,10 @@ I'm a passionate **Java Full Stack Developer** currently working at **Cognizant*
 ---
  
 ### 📬 How to Reach Me
-- 📫 Email: mohit02012001@gmail.com  
+- 📫 Email: mohit02012001@gmail.com  / mohitlogin72@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohit-kumar-a11340214)  
 - 🧠 [LeetCode](https://leetcode.com/u/Mohit_72/)  
-- 🌐 Portfolio (Coming Soon)
+- 🌐 [Portfolio (Coming Soon)](https://mohit-java-caps.github.io/mohit-portfolio/)
  
 ---
  
