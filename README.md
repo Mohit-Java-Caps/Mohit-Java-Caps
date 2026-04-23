@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I’m a **Backend Engineer at Cognizant** with a strong focus on **Java internals, JVM behavior, and system‑level architecture**.
+I’m a **Java Full Stack Engineer at Cognizant** with a strong focus on **Java internals, JVM behavior, and system‑level architecture**.
 
 I care deeply about:
 - how memory is managed,
