@@ -12,6 +12,8 @@ Building scalable backend systems, resilient microservices, and high-performance
 <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-red?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-Event%20Driven-black?style=for-the-badge&logo=apachekafka" /></p>
  
+---
+ 
 👨‍💻 About Me
  
 I'm a Java Full Stack Engineer at Cognizant, currently engineering scalable systems for NextEra Energy (USA).
