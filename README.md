@@ -4,13 +4,13 @@
 Java Full Stack Engineer • Distributed Systems • JVM Internals • Cloud-Native Architecture
 </h3><p align="center">
 Building scalable backend systems, resilient microservices, and high-performance distributed platforms.
-</p>---
+</p>
  
 <p align="center"><img src="https://img.shields.io/badge/Java-Backend%20Engineering-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-Microservices-success?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-Cloud%20Native-yellow?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-red?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-Event%20Driven-black?style=for-the-badge&logo=apachekafka" /></p>---
+<img src="https://img.shields.io/badge/Kafka-Event%20Driven-black?style=for-the-badge&logo=apachekafka" /></p>
  
 👨‍💻 About Me
  
@@ -150,14 +150,7 @@ Interview-ready system design explanations with:
 - Apache Spark
  
 ---
- 
-📈 GitHub Stats
- 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohit-Java-Caps&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Java-Caps&layout=compact&theme=tokyonight" />
-</p>---
- 
+
 🌍 Connect With Me
  
 - 📧 Email: "mohit02012001@gmail.com"
