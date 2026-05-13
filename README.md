@@ -1,161 +1,181 @@
-<h1 align="center">Hi, I'm Mohit Kumar</h1>
+<div align="center">
  
-<h3 align="center">
-Java Full Stack Engineer • Distributed Systems • JVM Internals • Cloud-Native Architecture
-</h3>
+# Hi, I'm Mohit Kumar 👋
  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=378ADD¢er=true&vCenter=true&width=900&lines=Java+Full+Stack+Engineer;Distributed+Systems+Engineer;JVM+Internals+%7C+Cloud+Architecture;Building+Scalable+Backend+Platforms" />
-</p>
+### Java Full Stack Engineer • Distributed Systems • JVM Internals • Cloud-Native Architecture
  
-<p align="center">
-  <a href="https://linkedin.com/in/mohit-kumar-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=378ADD¢er=true&vCenter=true&width=900&lines=Java+Full+Stack+Engineer;Distributed+Systems+Developer;Cloud-Native+Microservices+Engineer;JVM+Internals+%26+Performance+Engineering;Building+Scalable+Backend+Platforms" />
  
-  <a href="https://leetcode.com/u/Mohit_72">
-    <img src="https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+<br/>
  
-  <a href="mailto:mohit02012001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://linkedin.com/in/mohit-kumar-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
  
-  <a href="https://mohit-java-caps.github.io/mohit-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0F6E56?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:mohit02012001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohit-Java-Caps&style=flat-square&color=378ADD&label=Profile+Views" />
-</p>
+<a href="https://mohit-java-caps.github.io/mohit-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Live-0F6E56?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+ 
+<a href="https://leetcode.com/u/Mohit_72/">
+  <img src="https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+ 
+<br/><br/>
+ 
+<img src="https://komarev.com/ghpvc/?username=Mohit-Java-Caps&style=for-the-badge&color=0e75b6" />
+ 
+</div>
  
 ---
  
-# About Me
+# 💫 About Me
  
 I'm a **Java Full Stack Engineer at Cognizant**, currently building scalable backend systems for **NextEra Energy (USA)** — one of the world's largest renewable energy companies.
  
 I specialize in:
  
-- JVM internals & memory management
-- Distributed systems & microservices
-- Cloud-native backend architecture
-- Event-driven systems on AWS
-- High-performance data processing pipelines
+- Distributed systems
+- JVM internals & performance engineering
+- Cloud-native microservices
+- Event-driven architectures
+- High-scale backend platforms
  
-I care deeply about building systems that are:
+I care deeply about writing systems that are:
  
-- scalable under load
+- resilient under load
 - observable in production
-- fault tolerant
+- scalable by design
 - cleanly architected
-- optimized with engineering fundamentals
  
 ---
  
-# Engineering Focus
+# ⚡ Engineering Focus
  
-## JVM & Performance Engineering
+## 🧠 JVM & Performance Engineering
  
 - Heap internals
-- GC tuning & analysis
+- GC tuning mindset
 - Memory leak detection
 - Heap dump analysis
 - Eden / Survivor / Old Gen behavior
-- JVM optimization mindset
+- JVM optimization strategies
  
-## Distributed Systems
+## 🌐 Distributed Systems
  
 - API Gateway
 - Circuit Breaker
 - Saga Pattern
 - Retry strategies
 - Fault tolerance
-- Observability
-- Event-driven architecture
+- Observability & tracing
  
-## System Design
+## 🏗️ System Design
  
-- Scalability engineering
-- CAP theorem trade-offs
-- High-throughput backend systems
-- Resilient architecture patterns
-- Production-grade design thinking
- 
----
- 
-# Tech Stack
- 
-### Languages & Core
- 
-![Java](https://img.shields.io/badge/Java_17-Backend_Engineering-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL_&_MySQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
- 
-### Backend & Frameworks
- 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-Microservices-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-Gateway_&_Config-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-Design_&_Build-378ADD?style=flat-square)
- 
-### Frontend
- 
-![Angular](https://img.shields.io/badge/Angular-SPA_Development-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Styling-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
- 
-### Messaging & Big Data
- 
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Event_Driven-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-Big_Data-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
- 
-### Cloud & DevOps
- 
-![AWS](https://img.shields.io/badge/AWS-EC2_|_S3_|_RDS_|_ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-Automation-D24939?style=flat-square&logo=jenkins&logoColor=white)
+- Scalability
+- CAP theorem
+- High-throughput architectures
+- Real-world trade-off analysis
+- Distributed microservice design
  
 ---
  
-# Engineering Philosophy
+# 🚀 Tech Stack
  
-- Build systems that degrade gracefully
-- Optimize bottlenecks, not assumptions
-- Prefer observability over guesswork
-- Design for scale before crisis
-- Clean architecture over quick hacks
+## Languages & Core
+ 
+<p>
+<img src="https://img.shields.io/badge/Java_17-Backend_Engineering-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-PostgreSQL_&_MySQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+ 
+## Backend & Frameworks
+ 
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot_3-Microservices-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Cloud-Gateway_&_Config-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-Design_&_Build-378ADD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
+ 
+## Frontend
+ 
+<p>
+<img src="https://img.shields.io/badge/Angular-SPA_Development-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-Styling-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+ 
+## Messaging & Big Data
+ 
+<p>
+<img src="https://img.shields.io/badge/Apache_Kafka-Event_Driven-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-Big_Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</p>
+ 
+## Cloud & DevOps
+ 
+<p>
+<img src="https://img.shields.io/badge/AWS-EC2_|_S3_|_RDS_|_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
  
 ---
  
-# Featured Repositories
+# 📊 GitHub Analytics
+ 
+<div align="center">
+ 
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mohit-Java-Caps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+ 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Java-Caps&layout=compact&theme=tokyonight&hide_border=true"/>
+ 
+</div>
+ 
+<div align="center">
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Java-Caps&theme=tokyonight&hide_border=true"/>
+ 
+</div>
+ 
+---
+ 
+# 🏆 Featured Repositories
  
 <table>
 <tr>
  
 <td width="50%">
-<h3>JVM Heap Memory Management</h3>
  
-Deep dive into JVM heap structure, garbage collection algorithms, memory leaks, heap dump analysis, and performance optimization using real-world Java + Spring Boot examples.
+### 🧠 JVM Heap Memory Management
  
-<br/><br/>
+Deep dive into JVM heap structure, GC algorithms, memory leak detection, and performance optimization.
+ 
+**Tech:** Java • Spring Boot • JVM
  
 <a href="https://github.com/Mohit-Java-Caps/jvm-heap-memory-management">
-  <img src="https://img.shields.io/badge/View_Repository-378ADD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+ 
 </td>
  
 <td width="50%">
-<h3>Microservices Architecture Patterns</h3>
  
-Production-grade distributed system patterns including API Gateway, Circuit Breaker, Saga orchestration, resilience patterns, and Dockerized infrastructure.
+### 🌐 Microservices Architecture Patterns
  
-<br/><br/>
+Production-grade distributed system patterns including API Gateway, Saga, Circuit Breaker, and Resilience4j.
+ 
+**Tech:** Spring Cloud • Docker • Kafka
  
 <a href="https://github.com/Mohit-Java-Caps/microservices-architecture-patterns">
-  <img src="https://img.shields.io/badge/View_Repository-378ADD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+ 
 </td>
  
 </tr>
@@ -163,27 +183,31 @@ Production-grade distributed system patterns including API Gateway, Circuit Brea
 <tr>
  
 <td width="50%">
-<h3>System Design Case Studies</h3>
  
-Interview-ready system design case studies covering URL shortener, payment systems, social feed architecture, scalability trade-offs, and CAP theorem analysis.
+### 📘 DSA Practice Sheet
  
-<br/><br/>
+800+ LeetCode problems solved in Java with optimized approaches and topic-wise organization.
  
-<a href="https://github.com/Mohit-Java-Caps/system-design-case-studies">
-  <img src="https://img.shields.io/badge/View_Repository-378ADD?style=for-the-badge" />
+**Topics:** DP • Trees • Graphs • Sliding Window
+ 
+<a href="https://github.com/Mohit-Java-Caps/dsa-practice-sheet">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+ 
 </td>
  
 <td width="50%">
-<h3>DSA Practice Sheet</h3>
  
-800+ LeetCode solutions in Java covering arrays, graphs, dynamic programming, trees, binary search, sliding window, and advanced algorithms.
+### 🏗️ System Design Case Studies
  
-<br/><br/>
+Interview-ready architecture case studies including URL Shortener, Twitter Feed, Payment Systems, and Ride Sharing.
  
-<a href="https://github.com/Mohit-Java-Caps/dsa-practice-sheet">
-  <img src="https://img.shields.io/badge/View_Repository-378ADD?style=for-the-badge" />
+**Focus:** Scalability • CAP Theorem • Trade-offs
+ 
+<a href="https://github.com/Mohit-Java-Caps/system-design-case-studies">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+ 
 </td>
  
 </tr>
@@ -191,55 +215,71 @@ Interview-ready system design case studies covering URL shortener, payment syste
  
 ---
  
-# GitHub Analytics
+# 🚀 Currently Exploring
  
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohit-Java-Caps&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
- 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Java-Caps&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Java-Caps&theme=tokyonight&hide_border=true" />
-</p>
- 
----
- 
-# Currently Exploring
- 
-- JVM GC internals
+- JVM GC internals & memory optimization
 - Kafka stream processing
 - AI-assisted software engineering
-- High-scale backend optimization
-- Distributed observability systems
+- Distributed system scalability patterns
+- High-performance PostgreSQL tuning
  
 ---
  
-# Connect With Me
+# 📈 Contribution Graph
  
-<p align="left">
+[![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Java-Caps&theme=tokyo-night&hide_border=true)](https://github.com/Mohit-Java-Caps)
+ 
+---
+ 
+# 🧩 Problem Solving
+ 
+<div align="center">
+ 
+<img src="https://img.shields.io/badge/LeetCode-800%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+ 
+<img src="https://img.shields.io/badge/LeetCode-4★_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+ 
+</div>
+ 
+### Strong In
+ 
+- Arrays
+- Dynamic Programming
+- Trees
+- Graphs
+- Sliding Window
+- Binary Search
+- Backtracking
+- Two Pointers
+ 
+---
+ 
+# 🤝 Let's Connect
+ 
+<p align="center">
  
 <a href="https://linkedin.com/in/mohit-kumar-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohit_Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Mohit_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
  
 <a href="mailto:mohit02012001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mohit02012001%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
- 
-<a href="https://leetcode.com/u/Mohit_72">
-  <img src="https://img.shields.io/badge/LeetCode-Mohit_72-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
  
 <a href="https://mohit-java-caps.github.io/mohit-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0F6E56?style=flat-square&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0F6E56?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+ 
+<a href="https://leetcode.com/u/Mohit_72/">
+  <img src="https://img.shields.io/badge/LeetCode-Mohit_72-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
  
 </p>
  
 ---
  
-<p align="center">
-  <i>"Strong systems are built by engineers who understand fundamentals deeply."</i>
-</p>
+<div align="center">
  
+### ⭐ "Strong systems are built by engineers who understand fundamentals deeply."
+ 
+</div>
