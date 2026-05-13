@@ -4,24 +4,25 @@
  
 ### 🔥 **Java Full Stack Engineer** | Distributed Systems | JVM Internals | Cloud-Native Architecture
  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=800&color=2D9CDB¢er=true&vCenter=true&width=940&lines=Java+Full+Stack+Engineer+%40+Cognizant;Building+scalable+backends+for+NextEra+Energy;Distributed+Systems+%7C+Event-Driven+Architectures;JVM+Performance+Engineering+%7C+GC+Tuning;800%2B+LeetCode+%7C+System+Design+Enthusiast" alt="Typing SVG" />
+<!-- TYPING SVG - FIXED VERSION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=2D9CDB¢er=true&vCenter=true&width=900&lines=Java+Full+Stack+Engineer+%40+Cognizant;Building+scalable+backends+for+NextEra+Energy;Distributed+Systems+%7C+Event-Driven+Architectures;JVM+Performance+Engineering+%7C+GC+Tuning;800%2B+LeetCode+%7C+System+Design+Enthusiast" alt="Typing SVG" />
  
-<br/>
+<!-- BADGES ROW 1 - social -->
+<p>
+  <a href="https://linkedin.com/in/mohit-kumar-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mohit02012001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mohit-java-caps.github.io/mohit-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-0F6E56?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Mohit_72/"><img src="https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
  
-<a href="https://linkedin.com/in/mohit-kumar-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/></a>
-<a href="mailto:mohit02012001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/></a>
-<a href="https://mohit-java-caps.github.io/mohit-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-0F6E56?style=for-the-badge&logo=githubpages&logoColor=white&logoWidth=20"/></a>
-<a href="https://leetcode.com/u/Mohit_72/"><img src="https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=20"/></a>
+<!-- BADGES ROW 2 - availability (relocation changed to INDIA) -->
+<p>
+  <img src="https://img.shields.io/badge/Open_to_work-✅_Full_time-2D9CDB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Relocation_ready-🌍_India-2D9CDB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interview_prep-📅_Ready_now-2D9CDB?style=for-the-badge" />
+</p>
  
-<br/><br/>
- 
-<!-- Availability badges - added for recruiter clarity -->
-<img src="https://img.shields.io/badge/Open_to_work-✅_Full_time-2D9CDB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Relocation_ready-🌍_USA_/_Canada-2D9CDB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Interview_prep-📅_Ready_now-2D9CDB?style=for-the-badge" />
- 
-<br/><br/>
- 
+<!-- PROFILE VIEWS - smaller gap -->
 <img src="https://komarev.com/ghpvc/?username=Mohit-Java-Caps&style=for-the-badge&color=2D9CDB&label=PROFILE+VIEWS" />
  
 </div>
@@ -156,7 +157,7 @@ I design and build **high‑throughput, cloud‑native microservices** that run 
       <p><b>Focus:</b> CAP trade‑offs, sharding, caching strategies</p>
       <a href="https://github.com/Mohit-Java-Caps/system-design-case-studies"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
-   </tr>
+  </tr>
 </table>
  
 ---
@@ -180,8 +181,5 @@ I design and build **high‑throughput, cloud‑native microservices** that run 
  
 <div align="center">
   <i>“Strong systems are built by engineers who understand fundamentals deeply.”</i>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Open_to_work-✅-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Relocation_ready-🌍-blue?style=flat-square" />
 </div>
  
