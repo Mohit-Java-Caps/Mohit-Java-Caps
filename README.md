@@ -1,11 +1,18 @@
 <div align="center">
+
+<!-- DARK / LIGHT MODE BANNER -->
+<p>
+  <img src="YOUR_DARK_BANNER_LINK#gh-dark-mode-only" />
+  <img src="YOUR_LIGHT_BANNER_LINK#gh-light-mode-only" />
+</p>
  
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi, I'm Mohit Kumar
  
 ### 🔥 **Java Full Stack Engineer** | Distributed Systems | JVM Internals | Cloud-Native Architecture
  
 <!-- TYPING SVG - FIXED VERSION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=2D9CDB¢er=true&vCenter=true&width=900&lines=Java+Full+Stack+Engineer+%40+Cognizant;Building+scalable+backends+for+NextEra+Energy;Distributed+Systems+%7C+Event-Driven+Architectures;JVM+Performance+Engineering+%7C+GC+Tuning;800%2B+LeetCode+%7C+System+Design+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Engineer+%40+Cognizant;Building+Scalable+Backend+Systems;Distributed+Systems+%7C+Event-Driven+Architecture;JVM+Performance+Engineering+%7C+GC+Tuning;800%2B+LeetCode+%7C+System+Design" />
+<br/><br/>
  
 <!-- BADGES ROW 1 - social -->
 <p>
