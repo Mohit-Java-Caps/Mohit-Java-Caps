@@ -10,8 +10,9 @@
  
 <!-- Typing SVG – fixed & responsive -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=38BDF8¢er=true&vCenter=true&width=800&lines=Java+Full+Stack+Engineer+%40+Cognizant;Building+Scalable+Backend+Systems;Microservices+%7C+Kafka+Architecture;JVM+Performance+%7C+GC+Tuning;800%2B+LeetCode+%7C+System+Design" />
+  https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Engineer+%40+Cognizant;Scalable+Microservices+Builder;Kafka+%7C+Event+Driven+Systems;JVM+Performance+Engineer;800%2B+LeetCode
 </p>
+
  
 <!-- Social badges -->
 <p align="center">
