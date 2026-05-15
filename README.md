@@ -114,28 +114,18 @@ I design and build **high‑throughput, cloud‑native microservices** that run 
 ---
  
 ## 📊 GitHub Analytics
- 
-### Stats Overview
- 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Java-Caps&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=true" height="170" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Java-Caps&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
- 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohit-Java-Caps&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Java-Caps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Java-Caps&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
- 
-### 🏆 Achievements & Trophies
- 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohit-Java-Caps&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=Mohit-Java-Caps&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Java-Caps&theme=tokyo-night&hide_border=true&area=true" />
 </p>
  
 <br/>
