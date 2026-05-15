@@ -1,44 +1,46 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Mohit Kumar
 
-### 🔥 Java Full Stack Engineer · Distributed Systems · JVM Internals · Cloud-Native Architecture  
+### 🚀 Java Full Stack Engineer · Distributed Systems · JVM Internals · Cloud-Native Architecture  
 
 <p align="center">
-  <b>⚡ JVM Performance Engineering · GC Tuning · High-Scale Systems</b>
+<b>⚡ JVM Performance · Microservices · Scalable Systems</b>
 </p>
 
-<!-- ✅ TYPING ANIMATION -->
+<!-- ✅ FIXED TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Engineer+%40+Cognizant;Building+Scalable+Backend+Systems;Microservices+%7C+Event-Driven+Architecture;JVM+Performance+%7C+GC+Tuning;800%2B+LeetCode+%7C+System+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Engineer+%40+Cognizant;Building+Scalable+Backend+Systems;Microservices+%7C+Kafka+Architecture;JVM+Performance+%7C+GC+Tuning;800%2B+LeetCode+%7C+System+Design" />
 </p>
 
 <br/>
 
 <!-- ✅ SOCIAL -->
-<a href="https://linkedin.com/in/mohit-kumar-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mohit02012001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://mohit-java-caps.github.io/mohit-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Live-0F6E56?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Mohit_72/">
-  <img src="https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<br/><br/>
+<p align="center">
+  <a href="https://linkedin.com/in/mohit-kumar-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohit02012001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://mohit-java-caps.github.io/mohit-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0F6E56?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Mohit_72/">
+    <img src="https://img.shields.io/badge/LeetCode-800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
 <!-- ✅ STATUS -->
-<img src="https://img.shields.io/badge/Open_to_Work-✅-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Backend_Engineering-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Learning-Kubernetes-38BDF8?style=flat-square"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-Yes-38BDF8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Backend-38BDF8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Learning-Kubernetes-38BDF8?style=flat-square"/>
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mohit-Java-Caps&style=flat-square&color=38BDF8"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohit-Java-Caps&style=flat-square&color=38BDF8"/>
+</p>
 
 </div>
 
@@ -46,39 +48,33 @@
 
 # 🧑‍💻 Professional Snapshot
 
-🚀 **Java Full Stack Engineer @ Cognizant** (NextEra Energy, USA)
+🚀 Java Full Stack Engineer @ Cognizant (NextEra Energy)
 
-I design **high-throughput, cloud-native backend systems** built for scale and reliability.
-
-- 🧠 JVM internals (GC tuning, heap optimization, memory profiling)  
-- 🌐 Distributed systems (Kafka, retries, circuit breakers)  
-- ⚡ Microservices & scalable architecture  
-- 📊 Observability (logging, metrics, tracing)  
+- JVM performance tuning (GC, memory)
+- Distributed systems (Kafka, retries)
+- Microservices architecture
+- Cloud-native backend systems
 
 ---
 
-# 💼 Recruiter Snapshot — Why Hire Me?
+# 💼 Recruiter Snapshot
 
 <table>
 <tr>
 <td width="50%">
 
-### ✅ What I Bring
-- Production-grade **Microservices Architecture**
-- Strong **JVM performance expertise**
-- High-scale **distributed systems experience**
-- 800+ DSA problems (4⭐ LeetCode)
-- Clean, scalable engineering practices
+✅ Microservices & scalable systems  
+✅ Strong JVM internals knowledge  
+✅ 800+ DSA problems solved  
+✅ Clean, maintainable code  
 
 </td>
 
 <td width="50%">
 
-### ⚡ Key Impact
-- Built systems for **NextEra Energy (USA)**
-- Designed **Kafka-based architectures**
-- Focused on **performance & reliability**
-- Strong **problem-solving mindset**
+🚀 Built systems for US enterprise  
+⚡ Focus on performance & reliability  
+📈 Backend engineering expertise  
 
 </td>
 </tr>
@@ -86,40 +82,40 @@ I design **high-throughput, cloud-native backend systems** built for scale and r
 
 ---
 
-# ⚙️ Engineering Superpowers
+# ⚙️ Engineering Areas
 
-| Area | Expertise |
-|------|----------|
-| 🧠 JVM | GC tuning, heap dumps, memory leaks |
-| 🌐 Distributed Systems | Kafka, retries, resilience |
-| 🏗 System Design | scalable systems, CAP theorem |
-| ☁️ Cloud | AWS, Docker, CI/CD |
+| Domain | Skills |
+|------|-------|
+| JVM | GC tuning, heap analysis |
+| Distributed | Kafka, resilience |
+| System Design | scalable systems |
+| Cloud | AWS, Docker |
 
 ---
 
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/Kafka-Event_Driven-black?style=for-the-badge&logo=apachekafka"/>
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular"/>
+  <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
 </p>
 
 ---
 
-# 🧭 Architecture Blueprints
+# 🧭 Architecture Highlights
 
-### 🌐 Microservices
+### Microservices
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*8mW2b8bb9Z0k7O5xhbj2Dw.gif" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
 </p>
 
-### ⚡ Event-Driven Systems
+### Event-Driven Systems
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*V9K0f4S_Cj7L0Z8yX4gY6w.gif" />
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -127,36 +123,36 @@ I design **high-throughput, cloud-native backend systems** built for scale and r
 # 🧩 Problem Solving
 
 <p align="center">
-<img src="https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode"/>
-<img src="https://img.shields.io/badge/Rating-4★-FFA116?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LeetCode-800%2B-FFA116?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Rating-4★-FFA116?style=for-the-badge&logo=leetcode"/>
 </p>
 
 ---
 
 # 🏆 Featured Work
 
-- 🧠 JVM Memory Optimization  
-- 🌐 Microservices Architecture Patterns  
-- 📘 DSA Practice (800+)  
-- 🏗 System Design Case Studies  
+- JVM Memory Optimization  
+- Microservices Patterns  
+- DSA Practice (800+)  
+- System Design  
 
 ---
 
-# 🤝 Let’s Connect
+# 🤝 Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/mohit-kumar-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:mohit02012001@gmail.com">
-<img src="https://img.shields.io/badge/Email-Reach-red?style=for-the-badge&logo=gmail"/>
-</a>
+  <a href="https://linkedin.com/in/mohit-kumar-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mohit02012001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-✨ *"Great engineers build systems that scale, not just code that runs."*
+✨ "Great engineers build systems that scale"
 
 </div>
