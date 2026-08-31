@@ -1,174 +1,180 @@
 <div align="center">
- 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hi, I'm Mohit Kumar
- 
-### 🔥 Java Full Stack Engineer | Distributed Systems | JVM Internals | Cloud‑Native Architecture
- 
-<p align="center">
-  <b>⚡ JVM Performance • 🧩 Microservices • 📈 Scalable Systems</b>
-</p>
- 
-<!-- Typing SVG – fixed & responsive -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="Waving hand" /> Mohit Kumar
+
+### Java Full-Stack Engineer · Distributed Systems · Cloud-Native Architecture on AWS
+
+Java Full-Stack Engineer with 3+ years building cloud-native microservices and event-driven data pipelines — currently at **Cognizant**, engineering backend systems for **NextEra Energy**, one of the largest renewable-energy producers in the US.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Engineer+%40+Cognizant;Building+Scalable+Backend+Systems;Microservices+%7C+Kafka+Architecture;JVM+Performance+%7C+GC+Tuning;800%2B+LeetCode+%7C+System+Design" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=Java+Full-Stack+Engineer+%40+Cognizant;Building+Event-Driven+AWS+Data+Pipelines;Spring+Boot+%7C+Microservices+%7C+Apache+Spark;JVM+Internals+%7C+Distributed+Systems;800%2B+LeetCode+%7C+System+Design" alt="Typing animation: roles and focus areas" />
 </p>
 
- 
-<!-- Social badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/mohit-kumar-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mohit02012001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://mohit-java-caps.github.io/mohit-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-0F6E56?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Mohit_72/"><img src="https://img.shields.io/badge/LeetCode-800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohit-kumar-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:mohitlogin72@gmail.com"><img src="https://img.shields.io/badge/Email-mohitlogin72-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohit Kumar at mohitlogin72@gmail.com"/></a>
+  <a href="mailto:mohit02012001@gmail.com"><img src="https://img.shields.io/badge/Email-mohit02012001-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohit Kumar at mohit02012001@gmail.com"/></a>
+  <a href="https://mohit-java-caps.github.io/mohit-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="View live portfolio"/></a>
+  <a href="https://leetcode.com/u/Mohit_72/"><img src="https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile, 800+ problems solved"/></a>
 </p>
- 
-<!-- Availability badges (recruiter focused) -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to_work-✅_Full_time-38BDF8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Relocation_ready-🌍_India-38BDF8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Learning-Kubernetes-38BDF8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open_to_work-Full_time-22C55E?style=flat-square" alt="Open to full-time work"/>
+  <img src="https://img.shields.io/badge/Relocation_ready-India-22C55E?style=flat-square" alt="Open to relocation, based in India"/>
+  <img src="https://img.shields.io/badge/Focus-GenAI_%2F_RAG-22C55E?style=flat-square" alt="Currently upskilling in GenAI and RAG"/>
 </p>
- 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohit-Java-Caps&style=flat-square&color=38BDF8"/>
+  <img src="https://komarev.com/ghpvc/?username=Mohit-Java-Caps&style=flat-square&color=22C55E" alt="Profile view counter"/>
 </p>
- 
+
 </div>
- 
+
 ---
- 
-## 💼 Professional Snapshot
- 
-> **Java Full Stack Engineer @ Cognizant** | Powering **NextEra Energy (USA)** – one of the world's largest renewable energy companies.
- 
-- 🧠 JVM performance tuning (GC, heap analysis, memory leaks)  
-- 🌐 Distributed systems (Kafka, retries, circuit breakers, saga pattern)  
-- ⚙️ Microservices architecture & cloud‑native backends  
-- 📊 Event‑driven systems & observability  
- 
+
+## Professional snapshot
+
+- **Java 17 · Spring Boot 3.x** — enterprise-scale RESTful microservices, OOP + design patterns (Factory, Builder)
+- **Event-driven AWS pipelines** — S3, SNS, SQS, ECS orchestrating high-volume data ingestion for the energy sector
+- **Apache Spark batch processing** — 8,300+ files/day, 35 columns × 1,440 records, end-to-end under 75 minutes
+- **Data & performance** — PostgreSQL/Hibernate query tuning and connection pooling → 25% query-performance gain, 15% AWS cost reduction
+- **Currently extending into Gen-AI** — Databricks GenAI Associate, AWS AI Practitioner, RAG/embeddings/prompt engineering
+
 ---
- 
-## 🎯 Recruiter Snapshot
- 
+
+## Recruiter snapshot
+
 <table align="center">
   <tr>
     <td width="50%">
       <ul>
-        <li>✅ Microservices & scalable systems</li>
-        <li>✅ Strong JVM internals knowledge</li>
-        <li>✅ 800+ DSA problems solved (LeetCode 4★)</li>
-        <li>✅ Clean, maintainable, production‑ready code</li>
+        <li>Microservices & event-driven systems in production</li>
+        <li>800+ DSA problems solved (LeetCode 4★), GeeksforGeeks Rank #3</li>
+        <li>Promoted Trainee → Associate at Cognizant on delivery</li>
+        <li>Clean, tested code — JUnit 5, Mockito, TDD</li>
       </ul>
     </td>
     <td width="50%">
       <ul>
-        <li>🏢 Built systems for US enterprise</li>
-        <li>📈 Focus on performance & reliability</li>
-        <li>🔧 Backend engineering expertise</li>
-        <li>☁️ AWS (EC2, S3, RDS, ECS) + Docker</li>
+        <li>Built systems for a US enterprise energy client</li>
+        <li>25% query-perf gain · 15% AWS cost cut · 30% faster deploys</li>
+        <li>Spring Boot, Spring Security, JPA/Hibernate, REST, JWT/OAuth2</li>
+        <li>AWS (EC2, ECS, S3, RDS, SNS, SQS, Lambda) + Docker</li>
       </ul>
     </td>
   </tr>
 </table>
- 
+
 ---
- 
-## ⚙️ Engineering Areas
- 
-| Domain | Core Skills |
+
+## Engineering areas
+
+| Domain | Core skills |
 |--------|-------------|
-| **🧠 JVM** | GC tuning (G1, ZGC), heap dump analysis, memory leak detection |
-| **🌍 Distributed** | Kafka, resilience patterns (retry, circuit breaker), event sourcing |
-| **🏗️ System Design** | Scalability, CAP theorem, caching (Redis), database sharding |
-| **☁️ Cloud & DevOps** | AWS (EC2, S3, RDS, ECS), Docker, GitHub Actions |
- 
+| **Backend** | Java 17, Spring Boot 3.x, Spring Security, Spring Data JPA, Hibernate, REST, JWT/OAuth2 |
+| **Data engineering** | Apache Spark batch processing, event-driven architecture, message queues (SNS/SQS) |
+| **Distributed systems** | Microservices, Spring Cloud, API Gateway, Circuit Breaker, Saga, Retry/Resilience |
+| **Cloud & DevOps** | AWS (EC2, ECS, S3, RDS, SNS, SQS, Lambda), Docker, Jenkins, GitHub Actions |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis — indexing and query-performance tuning |
+| **Gen-AI (upskilling)** | AWS Bedrock, RAG, embeddings, prompt engineering, MLflow, Databricks |
+
 ---
- 
-## 🚀 Tech Stack
- 
+
+## Tech stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
+  <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
- 
+
 ---
- 
-## 📊 GitHub Analytics (Reliable & Always On)
- 
+
+## GitHub analytics
+
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=Mohit-Java-Caps&theme=github_dark&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Java-Caps&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=Mohit-Java-Caps&theme=github_dark&hide_border=true&background=0D1117&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub contribution streak stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Java-Caps&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22C55E" alt="Most-used languages"/>
 </div>
- 
+
 <p align="center">
-  <i>Note: Stats refresh daily. If the second card sometimes fails, it's due to Vercel rate limits — but your streak card always works.</i>
+  <i>Stats refresh daily via third-party services — the language card occasionally misses a beat under Vercel's free-tier rate limits.</i>
 </p>
- 
+
 ---
- 
-## 🧩 Problem Solving
- 
+
+## Problem solving
+
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Rating-4★-FFA116?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LeetCode-800%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="800+ LeetCode problems solved"/>
+  <img src="https://img.shields.io/badge/Rating-4★-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 4-star rating"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Rank_%233-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Rank 3"/>
 </p>
- 
-**Strong in:** Arrays | Dynamic Programming | Trees | Graphs | Sliding Window | Binary Search | Backtracking | Two Pointers
- 
+
+**Strong in:** Arrays · Strings · Trees · Graphs · Dynamic Programming · System Design · SQL
+
 ---
- 
-## 🏆 Featured Work
- 
+
+## Featured repositories
+
 <table>
   <tr>
     <td width="50%">
-      <b>🧠 JVM Memory Optimization</b><br/>
-      Deep dive into heap analysis, GC tuning, and production memory leak detection.<br/>
-      <code>Java · Spring Boot · JVM tools</code>
+      <b>Microservices Architecture Patterns</b><br/>
+      API Gateway, Circuit Breaker, Saga orchestration and Retry/Resilience — implemented, not just diagrammed.<br/>
+      <code>Java 17 · Spring Cloud</code>
     </td>
     <td width="50%">
-      <b>🌐 Microservices Patterns</b><br/>
-      Production-ready implementations: API Gateway, Saga, Circuit Breaker, Resilience4j.<br/>
-      <code>Spring Cloud · Docker · Kafka</code>
+      <b>System Design Case Studies</b><br/>
+      Trade-off-driven system design write-ups, not just box diagrams.<br/>
+      <code>Java · System Design</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b>📘 DSA Practice (800+)</b><br/>
-      Topic‑wise LeetCode solutions with optimized approaches and clean code.<br/>
-      <code>Java · Algorithms · Problem solving</code>
+      <b>Backend Production Scenarios</b><br/>
+      Real production-debugging scenarios: slow APIs, DB connection storms, memory leaks, Kafka lag.<br/>
+      <code>Java · Debugging</code>
     </td>
     <td width="50%">
-      <b>🏗️ System Design Case Studies</b><br/>
-      Scalable architectures: URL shortener, payment system, ride‑sharing, Twitter feed.<br/>
-      <code>Design · CAP · Sharding · Caching</code>
+      <b>JVM Heap Memory Management</b><br/>
+      Generational GC and object-lifecycle concepts, explained from first principles.<br/>
+      <code>Java · JVM Internals</code>
     </td>
   </tr>
 </table>
- 
+
 ---
- 
-## 🤝 Let’s Connect
- 
+
+## Verified certifications & awards
+
 <p align="center">
-  <a href="https://linkedin.com/in/mohit-kumar-dev"><img src="https://img.shields.io/badge/LinkedIn-Mohit_Kumar-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:mohit02012001@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://mohit-java-caps.github.io/mohit-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F6E56?style=for-the-badge&logo=vercel"/></a>
-  <a href="https://leetcode.com/u/Mohit_72/"><img src="https://img.shields.io/badge/LeetCode-Mohit_72-FFA116?style=for-the-badge&logo=leetcode"/></a>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner certified"/>
+  <img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS AI Practitioner certified"/>
+  <img src="https://img.shields.io/badge/Databricks-GenAI_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks GenAI Engineer Associate certified"/>
+  <img src="https://img.shields.io/badge/GitHub-Copilot_Certified-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Copilot certified"/>
+  <img src="https://img.shields.io/badge/Anthropic-Claude_Architect_Foundation-D4A27F?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Certified Architect Foundation"/>
 </p>
- 
+
+🏆 **Cognizant "Raising the Bar" Award** (Jul 2026) — AI Excellence & Continuous Learning, manager-nominated for GenAI upskilling and delivery impact.
+
 ---
- 
+
+## Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohit-kumar-dev"><img src="https://img.shields.io/badge/LinkedIn-Mohit_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:mohitlogin72@gmail.com"><img src="https://img.shields.io/badge/Gmail-mohitlogin72-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohit Kumar at mohitlogin72@gmail.com"/></a>
+  <a href="mailto:mohit02012001@gmail.com"><img src="https://img.shields.io/badge/Gmail-mohit02012001-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohit Kumar at mohit02012001@gmail.com"/></a>
+  <a href="https://mohit-java-caps.github.io/mohit-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit live portfolio"/></a>
+  <a href="https://leetcode.com/u/Mohit_72/"><img src="https://img.shields.io/badge/LeetCode-Mohit__72-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/></a>
+</p>
+
 <div align="center">
-  <i>“Great engineers don't just write code — they build systems that scale.”</i>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Open_to_work-✅-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Relocation_ready-🌍-blue?style=flat-square"/>
+  <i>"Great engineers don't just write code — they build systems that scale."</i>
 </div>
- 
